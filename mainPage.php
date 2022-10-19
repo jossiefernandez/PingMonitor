@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>ArchivosyFunciones</title>
+<title>PingMonitor</title>
 <meta charset="utf-8">
 </head>
 
